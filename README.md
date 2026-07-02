@@ -1,4 +1,3 @@
-
 :        CMD-DOS           :
 
 Varias Ferramentas para Otimização, e ultilidades
