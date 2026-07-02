@@ -1,6 +1,6 @@
 <img width="710" height="159" alt="image" src="https://github.com/user-attachments/assets/b532bbfc-79bc-4a1f-9432-3c4eb1bcd114" />
 
-
+CMD-DOS
 Varias Ferramentas para Otimização, e ultilidades
 para windows 10 & 11. Contendo varios outros pacotes,
 ele inclui o Winutil, e o Massgrave, nas suas versões 
@@ -8,7 +8,7 @@ ONLINE e OFFLINE, para ativação do windows e office.
 
 # Abaixo oque cada opção faz: 
 (ATENÇÃO: Por Padrão as Versões ONLINE Estão sempre atualizadas, as versões OFFLINE não possuem
-atualização, desde sua implementação no Devil-Win.)
+atualização, desde sua implementação.)
 
 (1)- Powershell Security Desabled:
 Desabilita a Segurança do Windows Powershell. ele lhe pedira um numero digite 4
